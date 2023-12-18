@@ -1,0 +1,14 @@
+.titleLabel {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.saveButton {
+    background-color: #4CAF50;
+    -fx-text-fill: white;
+    -fx-padding: 8px 16px;
+}
+
+.saveButton:hover {
+    background-color: #45a049;
+}
